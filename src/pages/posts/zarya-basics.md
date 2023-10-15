@@ -7,11 +7,13 @@ tags: ["astro"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-There's a simple secret to building a faster website — _just ship less_.
+In September 2022, artist Kristina Kashtanova registered a copyright for her graphic novel "Zarya of the Dawn." The work contained both text and images that Kashtanova claimed she authored. However, it later came out that Kashtanova had used an AI image generator called Midjourney to create some or all of the images. This raised questions about whether AI-generated content is eligible for copyright protection. 
 
-Unfortunately, modern web development has been trending in the opposite direction—towards _more._ More JavaScript, more features, more moving parts, and ultimately more complexity needed to keep it all running smoothly.
+The Copyright Office initiated a cancellation review since Kashtanova's application did not disclose the AI origins of some content. Copyright law requires "human authorship" for protection. Works produced solely by machines without creative input or intervention from a human are not eligible. The Office stated that Midjourney's autonomous, unpredictable image generation process did not qualify as human authorship.
 
-Today I'm excited to publicly share Astro: a new kind of static site builder that delivers lightning-fast performance with a modern developer experience. To design Astro, we borrowed the best parts of our favorite tools and then added a few innovations of our own, including:
+In response, Kashtanova's lawyer argued she did author the images through her creative choices in prompts, selection and refinement of images, and arrangement of the graphic novel. The letter argues this process is no different than using other computer tools like Photoshop. It asks the Office to affirm Kashtanova's copyright based on her overall authorship of selection and arrangement.
+
+The case raises interesting issues about whether current copyright law, with its human authorship requirement, is adequate to address creative works using AI. It illustrates the legal complexities around protecting AI art. The Office's final decision could have significant implications for the copyright eligibility of AI-generated content.
 
 - **Bring Your Own Framework (BYOF):** Build your site using React, Svelte, Vue, Preact, web components, or just plain ol' HTML + JavaScript.
 - **100% Static HTML, No JS:** Astro renders your entire page to static HTML, removing all JavaScript from your final build by default.
@@ -21,7 +23,7 @@ Today I'm excited to publicly share Astro: a new kind of static site builder tha
 
 This post marks the first public beta release of Astro. **Missing features and bugs are still to be expected at this early stage.** There are still some months to go before an official 1.0 release, but there are already several fast sites built with Astro in production today. We would love your early feedback as we move towards a v1.0 release later this year.
 
-> To learn more about Astro and start building your first site, check out [the project README.](https://github.com/snowpackjs/astro#-guides).
+> For the exchange between Kashtanova's lawyer and the U.S. Copyright office, check out [the letters here.](https://www.copyright.gov/docs/zarya-of-the-dawn.pdf).
 
 ## Getting Started
 
