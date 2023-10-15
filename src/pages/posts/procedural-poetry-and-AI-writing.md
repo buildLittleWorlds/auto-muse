@@ -1,7 +1,7 @@
 ---
-title: "How to compare dates in JavaScript"
+title: "Procedural Poetry and AI Writing"
 pubDate: "2020-01-28"
-slug: "how-to-compare-dates-in-javascript"
+slug: "procedural-poetry-and-AI-writing"
 description: "How to compare dates in JavaScript natively using the Date Object, without using any third-party libraries."
 hero: "/images/gears-feather.png"
 tags: ["javascript"]
