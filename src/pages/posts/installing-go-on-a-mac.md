@@ -1,9 +1,9 @@
 ---
-title: "Installing Go on a Mac"
-pubDate: "2020-02-01"
-slug: "go-basics-1-installing-go-on-a-mac"
+title: "Surrealism, AI, and Copyright"
+pubDate: "2023-09-09"
+slug: "surrealism-AI-and-copyright"
 description: "In this article, I am going to show you how to install & setup Go (Golang) on Mac and also setup/configure VS Code for writing Go (Golang) code."
-hero: "/images/Golang-Basics.png"
+hero: "/images/surrealism-ai-copyright.png"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
