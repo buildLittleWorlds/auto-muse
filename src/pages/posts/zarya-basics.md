@@ -15,36 +15,25 @@ In response, Kashtanova's lawyer argued she did author the images through her cr
 
 The case raises interesting issues about whether current copyright law, with its human authorship requirement, is adequate to address creative works using AI. It illustrates the legal complexities around protecting AI art. The Office's final decision could have significant implications for the copyright eligibility of AI-generated content.
 
-- **Bring Your Own Framework (BYOF):** Build your site using React, Svelte, Vue, Preact, web components, or just plain ol' HTML + JavaScript.
-- **100% Static HTML, No JS:** Astro renders your entire page to static HTML, removing all JavaScript from your final build by default.
-- **On-Demand Components:** Need some JS? Astro can automatically hydrate interactive components when they become visible on the page. If the user never sees it, they never load it.
-- **Fully-Featured:** Astro supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any of your favorite npm packages.
-- **SEO Enabled:** Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication.
+Here are some key takeaways on AI and copyright issues from the Zarya of the Dawn case:
 
-This post marks the first public beta release of Astro. **Missing features and bugs are still to be expected at this early stage.** There are still some months to go before an official 1.0 release, but there are already several fast sites built with Astro in production today. We would love your early feedback as we move towards a v1.0 release later this year.
+- Using AI tools like Midjourney does not automatically disqualify copyright protection. The work may still meet "human authorship" standards based on the creator's overall creative process.
+
+- However, AI-generated content itself, created autonomously without creative input, may not qualify for copyright protection under current law.
+
+- The selection and arrangement of AI-generated elements can potentially make a work copyrightable, even if individual AI-generated pieces are not protected.
+
+- Properly disclosing the use of AI tools in copyright applications is important, so that authorship and ownership are clear.
+
+- Copyright law trails behind technology. Expect legal uncertainty around AI authorship until laws are updated.
+
+- For now, document your creative choices when using AI tools, like prompts and selection steps, to strengthen your authorship claims.
+
+- AI art raises fascinating philosophical questions about creativity and authorship that current copyright law doesn't fully address.
 
 > For the exchange between Kashtanova's lawyer and the U.S. Copyright office, check out [the letters here.](https://www.copyright.gov/docs/zarya-of-the-dawn.pdf).
 
-## Getting Started
-
-Starting a new project in Astro is easy:
-
-```shell
-# create your project
-mkdir new-project-directory
-cd new-project-directory
-npm init astro
-
-# install your dependencies
-npm install
-
-# start the dev server and open your browser
-npm run dev
-```
-
-> To learn more about Astro and start building your first site, check out [the project README.](https://github.com/snowpackjs/astro#-guides).
-
-## How Astro Works
+## A few other links related to the case
 
 Astro works a lot like a static site generator. If you have ever used Eleventy, Hugo, or Jekyll (or even a server-side web framework like Rails, Laravel, or Django) then you should feel right at home with Astro.
 
